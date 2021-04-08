@@ -1,7 +1,7 @@
 jquery.textroll.js
 ==============================
 
-jQuery plugin for adding some effect to text : [DEMO](http://marexdesign.com/lab/textroll/ "DEMO")
+jQuery plugin for adding some effect to text : [DEMO](https://marexandre.com/lab/textroll/ "DEMO")
 
 
 ## Usage
