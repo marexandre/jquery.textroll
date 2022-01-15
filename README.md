@@ -4,7 +4,7 @@ jquery.textroll.js
 ![demo](demo.gif)
 
 ## DEMO and examples
-jQuery plugin for adding some effect to text : [DEMO](http://marexandre.github.io/jquery.textroll/ "DEMO")
+jQuery plugin for adding some effect to text : [DEMO](https://marexandre.github.io/jquery.textroll/demo/ "DEMO")
 
 
 ## Usage
