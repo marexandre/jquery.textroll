@@ -1,7 +1,7 @@
 jquery.textroll.js
 ==============================
 
-![demo](demo.gif)
+![demo](./demo/demo.gif)
 
 ## DEMO and examples
 jQuery plugin for adding some effect to text : [DEMO](https://marexandre.github.io/jquery.textroll/demo/ "DEMO")
